@@ -1,3 +1,4 @@
+#Fibonacci untuk menghitung jumlah kubus kayu yang dibutuhkan untuk membangun tangga kayu dengan jumlah langkah tertentu
 def fibonacci(n):
     if n <= 0:
         return "Masukkan jumlah langkah yang valid (bilangan bulat positif)."
