@@ -1,0 +1,35 @@
+_id,Kd_Prov,Provinsi,Persentase
+1,11,Aceh,87
+2,12,Sumatera Utara,89
+3,13,Sumatera Barat,83
+4,14,Riau,88
+5,15,Jambi,78
+6,16,Sumatera Selatan,80
+7,17,Bengkulu,62
+8,18,Lampung,74
+9,19,Kepulauan Bangka Belitung,75
+10,21,Kepulauan Riau,90
+11,31,DKI Jakarta,99
+12,32,Jawa Barat,93
+13,33,Jawa Tengah,94
+14,34,D.I. Yogyakarta,96
+15,35,Jawa Timur,95
+16,36,Banten,92
+17,51,Bali,97
+18,52,Nusa Tenggara Barat,94
+19,53,Nusa Tenggara Timur,83
+20,61,Kalimantan Barat,78
+21,62,Kalimantan Tengah,74
+22,63,Kalimantan Selatan,70
+23,64,Kalimantan Timur,85
+24,65,Kalimantan Utara,89
+25,71,Sulawesi Utara,90
+26,72,Sulawesi Tengah,84
+27,73,Sulawesi Selatan,90
+28,74,Sulawesi Tenggara,92
+29,75,Gorontalo,94
+30,76,Sulawesi Barat,72
+31,81,Maluku,91
+32,82,Maluku Utara,86
+33,91,Papua Barat,79
+34,94,Papua,62
